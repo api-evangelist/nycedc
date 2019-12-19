@@ -1,0 +1,49 @@
+{
+    "name": "NYCEDC",
+    "description": "New York City Economic Development Corporation's mission is to encourage economic growth in each of the five boroughs of New York City by strengthening the city's competitive position and facilitating investments.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28144-www-nycedc-com.jpg",
+    "tags": [
+        "city government",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nycedc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NYCEDC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28144-www-nycedc-com.jpg",
+            "humanURL": "https:\/\/www.nycedc.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nycedc-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nycedc-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/economic-development-corporation-nycedc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NYCEDC"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.nycedc.com"
+        }
+    ]
+}
